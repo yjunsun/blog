@@ -1,0 +1,9 @@
+baseURL: https://coderbot.top
+languageCode: zh-cmn-Hans
+DefaultContentLanguage: zh
+title: 猥瑣欲為
+theme: ananke
+params:
+  contact:
+    email: wsm-pc@hotmail.com
+  subtitle: 深夜港湾
